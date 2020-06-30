@@ -10,8 +10,11 @@ This Keylogger Develope by TURKFE34 and TheLinuxRaze!!!
 ╚───────────────────────────────────────────────────────────────────────╝
 
 Please use the application only for legal matters!
+
 We are not liable for any damage!
+
 All of our projects are open source!
+
 Have fun with it!
 
 ─────────────────────────────────────────────────────────────────────────
